@@ -26,4 +26,5 @@ pip install -r requirements.txt
 ```
 streamlit run app.py
 ```
-![Project Screenshot](Project Screenshot.png)
+![Project Screenshot](Project_Screenshot.png)
+
