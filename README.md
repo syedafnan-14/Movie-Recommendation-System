@@ -27,4 +27,5 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 ![Project Screenshot](Project_Screenshot.png)
+[Project_Demo](https://huggingface.co/spaces/blacksw0rd/Movie)
 
